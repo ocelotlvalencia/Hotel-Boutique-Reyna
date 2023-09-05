@@ -6,4 +6,3 @@ Proyecto de implementación de un hotel del municipio de Chignahuapan, Puebla. "
 <li>🧑🏻 - Eduardo Ocelotl Valencia</li>
 <li>🧑🏻 - Mario Ismael Salas Benitez</li>
 <li>👧🏻 - Karen Daniela Ramirez Vargas</li>
-<li>Otros...</li>
